@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+firebase.js
+DO NOT COMMIT.md
 
 # Editor directories and files
 .vscode/*
